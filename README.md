@@ -10,6 +10,7 @@
 - **Interested about AI, Neural Network and Machine Learning ✨**
 - **Speak and understand 3 languages 🌍**
 - **Always exploring new technologies 🔎**
+- **Owner of [![DJOPRO_STUDIO](https://img.shields.io/badge/DJOPRO%20STUDIO-grey?style=for-the-badge&logo=https://raw.githubusercontent.com/djopro-studio/DJSTUDIO-Website/refs/heads/main/logo.png)](https://djstudio.work.gd) !**
 
 ## As a Multi-Language developer 💻, I can script :
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
